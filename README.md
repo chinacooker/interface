@@ -61,7 +61,7 @@ freeAutoTest简介
 
 ![Alt text](https://github.com/shaoyan163/autoTestGo/blob/master/screenshot/report1.jpg)  
 
-欢迎使用，使用中有问题欢迎沟通交流，QQ群790710729、个人QQ757899689
+欢迎使用，使用中有问题欢迎沟通交流
 
 
 
