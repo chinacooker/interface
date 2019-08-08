@@ -11,10 +11,10 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.application import MIMEApplication
 
-username = '757899689@qq.com'
-password = "vfdvrzwicazvbbef"
+username = '544454084@qq.com'
+password = "buxakpudnmxobceb"
 sender = username
-receivers = ','.join(['hzsyy@tairanchina.com'])
+receivers = ','.join(['yufei@baixing.com'])
 
 
 def email(report):

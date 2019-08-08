@@ -24,4 +24,4 @@ BeautifulReport(discover).report(filename=reportName, description=description, r
 report = os.path.join(reportPath, reportName)
 
 # 发送邮件
-# sendEmail.email(report)
+sendEmail.email(report)
