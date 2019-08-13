@@ -19,8 +19,8 @@ discover = unittest.defaultTestLoader.discover(test_dir, pattern='test_*.py')
 
 now = time.strftime("%Y-%m-%d %H_%M_%S")
 reportName = now + '测试报告.html'
-description = "ATS系统接口自动化测试报告"
-BeautifulReport(discover).report(filename=reportName, description=description, report_dir=reportPath)
+description = "接口自动化测试报告"
+BeautifulReport(discover).report(filename=reportName, description=description, log_path=reportPath)
 report = os.path.join(reportPath, reportName)
 
 # 发送邮件

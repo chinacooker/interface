@@ -32,7 +32,7 @@ riskStrategyName = cf.get(flag, "riskStrategyName")
 riskStrategyVersion = cf.get(flag, "riskStrategyVersion")
 riskStrategyVersionName = cf.get(flag, "riskStrategyVersionName")
 projectName = cf.get(flag, "projectName")
-skip_reason = cf.get(flag, "skip_reason")
+#skip_reason = cf.get(flag, "skip_reason")
 
 
 if __name__ == "__main__":

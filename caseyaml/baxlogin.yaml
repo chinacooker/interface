@@ -1,0 +1,13 @@
+登录普通用户:
+  data: {"user_id": 303}
+  assert: 'Success'
+
+登录运营用户:
+  data: {"user_id": 1}
+  assert: 'Success'
+
+登录用户2:
+  data: {"user_id":252}
+  assert: 'Success'
+
+
